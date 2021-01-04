@@ -1,0 +1,41 @@
+# Site settings
+title: 'WeaSuL 2021'
+description: 'Workshop on Weakly Supervised Learning
+ <br><br>  ICLR 2021 Workshop <br> virtual'
+url: ''
+baseurl: ''
+#google_analytics: 'UA-130203294-1'
+
+author:
+  name: 'Michael A. Hedderich'
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+baseurl: /_site
+
+gems: [jekyll-paginate]
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+plugins_dir: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'vendor']
