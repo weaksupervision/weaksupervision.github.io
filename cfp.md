@@ -12,9 +12,7 @@ permalink: /cfp/
 
 **Workshop date:** May 8, 2021
 
-All deadlines are calculated at 11:59pm Pacific Daylight Savings Time (UTC -12h; anywhere on earth)
 
-<br />
 ### Topics of Interest
 
 We invite submissions on (but not limited to) the following topics:
@@ -35,7 +33,7 @@ We invite submissions on (but not limited to) the following topics:
 
 We solicit two categories of papers: long and short papers. Authors can decide the archival status of their publications. Submissions will go through a double-blind review process, where each submission is reviewed by at least two program committee members. 
 
-Accepted papers will be presented by the authors either as talk or poster. All submissions must follow the ICLR 2021 formatting requirements [https://iclr.cc/Conferences/2021/CallForPapers](https://iclr.cc/Conferences/2021/CallForPapers)
+Accepted papers will be presented by the authors either as talk or poster. All submissions must follow the ICLR 2021 formatting requirements [(https://iclr.cc/Conferences/2021/CallForPapers)](https://iclr.cc/Conferences/2021/CallForPapers)
 
 - Long paper submission: up to 8 pages of content (+1 on acceptance), plus bibliography<br />
 - Short paper submission: up to 4 pages of content(+1 on acceptance), plus bibliography

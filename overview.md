@@ -3,32 +3,22 @@ layout: post
 title: Overview
 permalink: /overview/
 ---
-**_Motto: When you are groping in the dark, knowledge gives you the light_**
-<br>
-<br>
 
-Language is acquired, used, and evaluated in everyday life by understanding the world around us. It is thus essential to capture such an understanding by exploiting knowledge from sources that are useful for grounding language. Recent works have shown that visually-grounded language is useful for addressing task-specific challenges such as visual captioning, Q\&A, dialog, and so on. This has been extensively demonstrated in a series of workshops conducted at various conferences. 
+Deep learning relies on massive training sets of labeled examples to learn from - often tens of thousands to millions to reach peak predictive performance. However, large amounts of training data are only available for very few standardized learning problems. Even small variations of the problem specification or changes in the data distribution would necessitate re-annotation of large amounts of data. 
 
-In this workshop, however, we are interested in work which goes beyond the task-specific integration of language and vision. That is, to leverage knowledge from external sources that are either provided by an environment or some fixed knowledge. As far as environments are concerned, they represent physical spaces such as homes, offices, hospitals, and warehouses. In these environments, we may want to develop agents/robots that are able to assist humans in various ways. To do that, these agents should have knowledge about the environment surroundings and effectively use it for producing visually-grounded language. Hence, this requires developing new techniques for linking language to an action/scene in the real world. As for fixed knowledge, it refers to knowledge graphs which encapsulate real-world or common-sense knowledge along with their relationships. They explicitly contribute relational knowledge which can help to interconnect language and vision effectively (e.g. Visual Genome). However, other similar problems such as continuous versus discrete representations (of knowledge) are also interesting for understanding how to combine and reason with them. Also, advances in machine learning play a fundamental role in providing background support for the integration of language and vision with real-world knowledge. In particular, the usage of reinforcement learning for optimization, deep learning from graph structured data and generalization to limited/unseen data with few-shot/ zero-shot learning. 
+However, domain knowledge can often be expressed by sets of prototypical descriptions: For example, vision experts can exploit meta information for image labeling, linguists can describe discourse phenomena by prototypical realization patterns, social scientists can specify events of interest by characteristic key phrases, and bio-medical researchers have databases of known interactions between drugs or proteins that can be used for heuristic labeling. These knowledge-based descriptions can be either used as rule-based predictors or as labeling functions for providing partial data annotations. The growing field of weak supervision provides methods for refining and generalizing such heuristic-based annotations in interaction with deep neural networks and large amounts of unannotated data. 
 
-Hence, the aim of the LANTERN workshop is to bring together researchers from different disciplines who are united by their adoption of techniques from machine learning to interconnect language, vision, and other modalities by leveraging external knowledge.
+In this workshop, we want to advance theory, methods and tools for allowing experts to express prior coded knowledge for automatic data annotations that can be used to train arbitrary deep neural networks for prediction. The ICLR 2021 Workshop on Weak Supervision aims at advancing methods that help modern machine-learning methods to generalize from knowledge provided by experts, in interaction with observable (unlabeled) data. 
 
-Topics of interest include, but are not limited to:
+In particular, we are interested in the following questions: 
 
-- Application of language and vision to robotics
-- Cognitively- and neuroscience-driven vision and language learning (eye-tracking, fMRI, etc.)
-- Common-sense knowledge acquisition from vision
-- Enhancing visual perception with language and structured knowledge
-- Human-robot interaction with language understanding and visual perception
-- Integration of vision and language by building cross-modal relationship networks
-- Integrated models of real-world knowledge, vision, and language for generating context-sensitive embeddings
-- Language and vision for learning games
-- Learning of quantities from vision
-- Multi-task learning for integration of language and vision
-- Reasoning with language to improve visual perception
-- Text-to-Image (natural, sketch, synthetic) generation with external knowledge
-- Theoretical understanding of limitations in the integration of vision and language
-- Visual dialog, captioning and Q&A by incorporating common-sense/real-world knowledge
-- Other novel tasks which combine language and vision with means of external knowledge
+- What tasks, not traditionally solved with weak supervision, can profit from knowledge-based labeling?
+- What are the typical characteristics of a prediction task that make it amenable to weak supervision? 
+- How can weak supervision best be combined with neural networks and representation learning? 
+- What is the relationship of weak supervision to other machine learning paradigms, specifically, to semi-supervised learning, to active-learning, to label denoising and confidence estimation? 
+- Can approaches to weak supervision from different fields, e.g, relation extraction (natural language processing) and image classification (vision) be unified? 
+- What are good benchmarks for evaluating and comparing weak supervision approaches? 
 
+Learning with weak supervision is both studied from a theoretical perspective as well as applied to a variety of tasks from areas like natural language processing and computer vision. This workshop aims at bringing together researchers from this wide range of fields to facilitate discussions across research areas that share the common ground of using weak supervision. A target of this workshop is also to inspire applications of weak supervision to new scenarios and to enable researchers to work on tasks that so far have been considered too low-resource. 
 
+As weak supervision addresses one of the major issues of current machine learning techniques, the lack of labeled data, it has also started to obtain commercial interest. This workshop is an opportunity to bridge innovations from academia and the requirements of industry settings. 
