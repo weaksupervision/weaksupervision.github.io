@@ -23,7 +23,7 @@ paginate: 10
 permalink: /:year/:title/
 markdown: kramdown
 highlighter: rouge
-baseurl: /_site
+baseurl: 
 
 gems: [jekyll-paginate]
 
