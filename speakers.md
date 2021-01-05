@@ -40,7 +40,7 @@ permalink: /speakers/
 <div class="clearfix">
     <a href="https://cs.illinois.edu/about/people/faculty/hengji">
     <div class="speaker-image">
-         <img src="/2021/images/Danna_square.jpg" alt="Heng Ji"> 
+         <img src="/2021/images/HengJi.jpg" alt="Heng Ji"> 
     </div>
     <div class="speaker-text">
         <h3>Heng Ji</h3>
@@ -54,9 +54,9 @@ permalink: /speakers/
 <br>
 
 <div class="clearfix">
-    <a href="https://research.google/people/LuJiang/">
+    <a href="http://www.lujiang.info">
     <div class="speaker-image">
-         <img src="/2021/images/Sebastian.jpg" alt="Lu Jiang"> 
+         <img src="/2021/images/LuJiang.jpg" alt="Lu Jiang"> 
     </div>
     <div class="speaker-text">
         <h3>Lu Jiang</h3>
@@ -72,7 +72,7 @@ permalink: /speakers/
 <div class="clearfix">
     <a href="https://www.cs.umd.edu/~marine/">
     <div class="speaker-image">
-         <img src="/2021/images/Sebastian.jpg" alt="Marine Carpuat"> 
+         <img src="/2021/images/MarineCarpuat.jpg" alt="Marine Carpuat"> 
     </div>
     <div class="speaker-text">
         <h3>Marine Carpuat</h3>
