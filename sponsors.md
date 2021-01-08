@@ -6,5 +6,5 @@ permalink: /sponsors/
 <br>
  (being updated)
 <br>
-<a href='https://snorkel.ai/'><img height='150' src='/images/snorkl.png'></a>
+<a href='https://snorkel.ai/'><img height='150' src='/images/snorkel.jpg'></a>
 

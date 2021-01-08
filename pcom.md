@@ -4,7 +4,7 @@ title: Program Committee
 permalink: /pcom/
 ---
 
----
+<!---
 - **Somak Aditya**, Microsoft Research
 - **Afra Alishahi**, Tilburg University
 - **Iacer Calixto**, NYU
@@ -18,4 +18,4 @@ permalink: /pcom/
 - **Allessandro Suglia**, Edinburgh Centre for Robotics
 - **Alane Suhr**, Cornell University
 - **Sina Zarrieß**, Jena University
----
+-->
