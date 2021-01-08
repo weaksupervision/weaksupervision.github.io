@@ -8,7 +8,7 @@ permalink: /speakers/
 <div class="clearfix">
     <a href="https://www.cis.upenn.edu/~danroth/">
     <div class="speaker-image">
-         <img src="/2021/images/DanRoth.jpg" alt="Dan Roth"> 
+         <img src="/images/DanRoth.jpg" alt="Dan Roth"> 
     </div>
     <div class="speaker-text">
         <h3>Dan Roth</h3>
@@ -24,7 +24,7 @@ permalink: /speakers/
 <div class="clearfix">
     <a href="https://www.paroma.xyz/">
     <div class="speaker-image">
-         <img src="/2021/images/ParomaVarma.jpg" alt="Paroma Varma"> 
+         <img src="/images/ParomaVarma.jpg" alt="Paroma Varma"> 
     </div>
     <div class="speaker-text">
         <h3>Paroma Varma</h3>
@@ -40,7 +40,7 @@ permalink: /speakers/
 <div class="clearfix">
     <a href="https://cs.illinois.edu/about/people/faculty/hengji">
     <div class="speaker-image">
-         <img src="/2021/images/HengJi.jpg" alt="Heng Ji"> 
+         <img src="/images/HengJi.jpg" alt="Heng Ji"> 
     </div>
     <div class="speaker-text">
         <h3>Heng Ji</h3>
@@ -56,7 +56,7 @@ permalink: /speakers/
 <div class="clearfix">
     <a href="http://www.lujiang.info">
     <div class="speaker-image">
-         <img src="/2021/images/LuJiang.jpg" alt="Lu Jiang"> 
+         <img src="/images/LuJiang.jpg" alt="Lu Jiang"> 
     </div>
     <div class="speaker-text">
         <h3>Lu Jiang</h3>
@@ -72,7 +72,7 @@ permalink: /speakers/
 <div class="clearfix">
     <a href="https://www.cs.umd.edu/~marine/">
     <div class="speaker-image">
-         <img src="/2021/images/MarineCarpuat.jpg" alt="Marine Carpuat"> 
+         <img src="/images/MarineCarpuat.jpg" alt="Marine Carpuat"> 
     </div>
     <div class="speaker-text">
         <h3>Marine Carpuat</h3>
