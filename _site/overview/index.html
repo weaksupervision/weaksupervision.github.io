@@ -26,7 +26,7 @@
 
   <meta name="theme-color" content="#ffffff">
   
-  <link rel="stylesheet" href="/css/main.css?1609777810305386352">
+  <link rel="stylesheet" href="/css/main.css?1610211049489217045">
   <link rel="canonical" href="http://localhost:4000/overview/">
 </head>
 
@@ -59,8 +59,9 @@
               <li class="navigation__item"><a href="/cfp" title="call for papers" class="blog-button">Call for Papers</a></li>
               <li class="navigation__item"><a href="/speakers" title="speakers" class="blog-button">Speakers</a></li>
               <li class="navigation__item"><a href="/organizers" title="organizers" class="blog-button">Organizers</a></li>
-              <li class="navigation__item"><a href="/pcom" title="Program Committee" class="blog-button">Program Committee</a></li>
-              <li class="navigation__item"><a href="/sponsors" title="sponsors" class="blog-button">Sponsorship</a></li>
+       <!--       <li class="navigation__item"><a href="/pcom" title="Program Committee" class="blog-button">Program Committee</a></li> -->
+              <li class="navigation__item"><a href="/diversity" title="sponsors" class="blog-button">Diversity Funding</a></li>
+              <li class="navigation__item"><a href="https://twitter.com/wea_su">Twitter</a></li>
             </ul>
           </nav>
         </div>
@@ -86,36 +87,26 @@
   </header>
 
   <section class="post">
-    <p><strong><em>Motto: When you are groping in the dark, knowledge gives you the light</em></strong>
-<br />
-<br /></p>
+    <p>Deep learning relies on massive training sets of labeled examples to learn from - often tens of thousands to millions to reach peak predictive performance. However, large amounts of training data are only available for very few standardized learning problems. Even small variations of the problem specification or changes in the data distribution would necessitate re-annotation of large amounts of data.</p>
 
-<p>Language is acquired, used, and evaluated in everyday life by understanding the world around us. It is thus essential to capture such an understanding by exploiting knowledge from sources that are useful for grounding language. Recent works have shown that visually-grounded language is useful for addressing task-specific challenges such as visual captioning, Q\&amp;A, dialog, and so on. This has been extensively demonstrated in a series of workshops conducted at various conferences.</p>
+<p>However, domain knowledge can often be expressed by sets of prototypical descriptions: For example, vision experts can exploit meta information for image labeling, linguists can describe discourse phenomena by prototypical realization patterns, social scientists can specify events of interest by characteristic key phrases, and bio-medical researchers have databases of known interactions between drugs or proteins that can be used for heuristic labeling. These knowledge-based descriptions can be either used as rule-based predictors or as labeling functions for providing partial data annotations. The growing field of weak supervision provides methods for refining and generalizing such heuristic-based annotations in interaction with deep neural networks and large amounts of unannotated data.</p>
 
-<p>In this workshop, however, we are interested in work which goes beyond the task-specific integration of language and vision. That is, to leverage knowledge from external sources that are either provided by an environment or some fixed knowledge. As far as environments are concerned, they represent physical spaces such as homes, offices, hospitals, and warehouses. In these environments, we may want to develop agents/robots that are able to assist humans in various ways. To do that, these agents should have knowledge about the environment surroundings and effectively use it for producing visually-grounded language. Hence, this requires developing new techniques for linking language to an action/scene in the real world. As for fixed knowledge, it refers to knowledge graphs which encapsulate real-world or common-sense knowledge along with their relationships. They explicitly contribute relational knowledge which can help to interconnect language and vision effectively (e.g. Visual Genome). However, other similar problems such as continuous versus discrete representations (of knowledge) are also interesting for understanding how to combine and reason with them. Also, advances in machine learning play a fundamental role in providing background support for the integration of language and vision with real-world knowledge. In particular, the usage of reinforcement learning for optimization, deep learning from graph structured data and generalization to limited/unseen data with few-shot/ zero-shot learning.</p>
+<p>In this workshop, we want to advance theory, methods and tools for allowing experts to express prior coded knowledge for automatic data annotations that can be used to train arbitrary deep neural networks for prediction. The ICLR 2021 Workshop on Weak Supervision aims at advancing methods that help modern machine-learning methods to generalize from knowledge provided by experts, in interaction with observable (unlabeled) data.</p>
 
-<p>Hence, the aim of the LANTERN workshop is to bring together researchers from different disciplines who are united by their adoption of techniques from machine learning to interconnect language, vision, and other modalities by leveraging external knowledge.</p>
-
-<p>Topics of interest include, but are not limited to:</p>
+<p>In particular, we are interested in the following questions:</p>
 
 <ul>
-  <li>Application of language and vision to robotics</li>
-  <li>Cognitively- and neuroscience-driven vision and language learning (eye-tracking, fMRI, etc.)</li>
-  <li>Common-sense knowledge acquisition from vision</li>
-  <li>Enhancing visual perception with language and structured knowledge</li>
-  <li>Human-robot interaction with language understanding and visual perception</li>
-  <li>Integration of vision and language by building cross-modal relationship networks</li>
-  <li>Integrated models of real-world knowledge, vision, and language for generating context-sensitive embeddings</li>
-  <li>Language and vision for learning games</li>
-  <li>Learning of quantities from vision</li>
-  <li>Multi-task learning for integration of language and vision</li>
-  <li>Reasoning with language to improve visual perception</li>
-  <li>Text-to-Image (natural, sketch, synthetic) generation with external knowledge</li>
-  <li>Theoretical understanding of limitations in the integration of vision and language</li>
-  <li>Visual dialog, captioning and Q&amp;A by incorporating common-sense/real-world knowledge</li>
-  <li>Other novel tasks which combine language and vision with means of external knowledge</li>
+  <li>What tasks, not traditionally solved with weak supervision, can profit from knowledge-based labeling?</li>
+  <li>What are the typical characteristics of a prediction task that make it amenable to weak supervision?</li>
+  <li>How can weak supervision best be combined with neural networks and representation learning?</li>
+  <li>What is the relationship of weak supervision to other machine learning paradigms, specifically, to semi-supervised learning, to active-learning, to label denoising and confidence estimation?</li>
+  <li>Can approaches to weak supervision from different fields, e.g, relation extraction (natural language processing) and image classification (vision) be unified?</li>
+  <li>What are good benchmarks for evaluating and comparing weak supervision approaches?</li>
 </ul>
 
+<p>Learning with weak supervision is both studied from a theoretical perspective as well as applied to a variety of tasks from areas like natural language processing and computer vision. This workshop aims at bringing together researchers from this wide range of fields to facilitate discussions across research areas that share the common ground of using weak supervision. A target of this workshop is also to inspire applications of weak supervision to new scenarios and to enable researchers to work on tasks that so far have been considered too low-resource.</p>
+
+<p>As weak supervision addresses one of the major issues of current machine learning techniques, the lack of labeled data, it has also started to obtain commercial interest. This workshop is an opportunity to bridge innovations from academia and the requirements of industry settings.</p>
 
   </section>
   <!---->
@@ -139,11 +130,11 @@
   <span class="footer__copyright">&copy; 2021</span>
   <span class="footer__copyright">Template Adopted: Jekyll-Uno</span>
   <span class="footer__copyright">Background Picture based on an image by <a href="https://pixabay.com/de/users/12019-12019/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1945487">David Mark</a> on <a href="https://pixabay.com/de/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1945487">Pixabay</a> </span>
+  <span class="footer__copyright">Logo based on an image by <a href="https://unsplash.com/@zmachacek?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Zdeněk Macháček</a></span>
 </footer>
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-<script type="text/javascript" src="/js/main.js?1609777810305386352"></script>
-
+<script type="text/javascript" src="/js/main.js?1610211049489217045"></script>
 
     </div>
   </body>
