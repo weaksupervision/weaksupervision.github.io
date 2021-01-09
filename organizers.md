@@ -19,13 +19,13 @@ permalink: /organizers/
     </a>
 </div>
 <div class="organizer-box">
-    <a href='https://www.engr.washington.edu/facresearch/newfaculty/2020/ratner'>
+    <a href='https://ajratner.github.io/'>
     <img class="organizer-image" src="/images/AlexRatner.jpg"><br />
     Alex Ratner<br/>(University of Washington)
     </a>
 </div>
 <div class="organizer-box">
-    <a href='https://www.colorado.edu/ics/katharina-kann'>
+    <a href='https://kelina.github.io/'>
     <img class="organizer-image" src="/images/KatharinaKann.jpg"><br />
     Katharina Kann<br/>(University of Colorado Boulder)
     </a>

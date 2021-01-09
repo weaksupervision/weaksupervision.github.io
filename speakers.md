@@ -38,7 +38,7 @@ permalink: /speakers/
 <br>
 
 <div class="clearfix">
-    <a href="https://cs.illinois.edu/about/people/faculty/hengji">
+    <a href="http://blender.cs.illinois.edu/hengji.html">
     <div class="speaker-image">
          <img src="/images/HengJi.jpg" alt="Heng Ji"> 
     </div>
