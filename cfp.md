@@ -10,7 +10,7 @@ permalink: /cfp/
 
 **Author Notification:**  Mar 26, 2021
 
-**Workshop date:** May 8, 2021
+**Workshop date:** May 7, 2021
 
 
 ### Topics of Interest
@@ -37,3 +37,7 @@ Accepted papers will be presented by the authors either as talk or poster. All s
 
 - Long paper submission: up to 8 pages of content (+1 on acceptance), plus bibliography<br />
 - Short paper submission: up to 4 pages of content(+1 on acceptance), plus bibliography
+
+Papers being submitted both to WeaSuL and another conference or workshop must note in the submission form the other conference or workshop. If the paper is accepted for the other venue, the authors must contact the WeaSuL organizers (archival publications are only possible if the paper is not published elsewhere).
+
+Submission via CMT: https://cmt3.research.microsoft.com/WEASUL2021
