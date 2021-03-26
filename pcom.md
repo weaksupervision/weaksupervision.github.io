@@ -4,6 +4,8 @@ title: Program Committee
 permalink: /pcom/
 ---
 
+We would like to thank the members of the program committee for their help:
+
 - **Abhijeet Awasthi**, Indian Institute of Technology Bombay
 - **Andreas	Baumann**, University of Vienna
 - **Bo Han**, Hong Kong Baptist University
