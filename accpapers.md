@@ -20,7 +20,7 @@ permalink: /accpapers/
 <br>
 - **Dependency Structure Misspecification in Multi-Source Weak Supervision Models**<br>*Salva Rühling Cachay, Benedikt Boecking and Artur Dubrawski*
 <br>
-- Weakly-Supervised Group Disentanglement using Total Correlation**<br>*Linh Tran, Saeid Asgari Taghanaki, Amir Hosein Khasahmadi, Aditya Sanghi*
+- **Weakly-Supervised Group Disentanglement using Total Correlation**<br>*Linh Tran, Saeid Asgari Taghanaki, Amir Hosein Khasahmadi, Aditya Sanghi*
 <br>
 - **Better adaptation to distribution shifts with Robust Pseudo-Labeling**<br>*Evgenia Rusak, Steffen Schneider, Peter Gehler, Oliver Bringmann, Bernhard Schölkopf, Wieland Brendel and Matthias Bethge*
 <br>
