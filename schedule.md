@@ -4,6 +4,9 @@ title: Schedule
 permalink: /schedule/
 ---
 
+**Day: May 7 2021**<br>
+Location: Virtual (ICLR platform)
+
 PDT | EDT |	CEST |CST	|	Event
 :------------: | :----------: | :------: | :-------: | :-----------
 07:00 |	10:00 |	16:00 |	22:00 |	**Introduction and Opening Remarks**

@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WeaSuL 2021</title>
-    <description>Workshop on Weakly Supervised Learning &lt;br&gt;&lt;br&gt;  ICLR 2021 Workshop &lt;br&gt; virtual</description>
+    <description>Workshop on Weakly Supervised Learning &lt;br&gt;&lt;br&gt;  ICLR 2021 Workshop &lt;br&gt;May 7 2021&lt;br&gt;virtual</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 12 Apr 2021 11:11:56 +0200</pubDate>
-    <lastBuildDate>Mon, 12 Apr 2021 11:11:56 +0200</lastBuildDate>
+    <pubDate>Mon, 12 Apr 2021 11:17:46 +0200</pubDate>
+    <lastBuildDate>Mon, 12 Apr 2021 11:17:46 +0200</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
   </channel>
