@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Schedule
+title: Tentative Schedule
 permalink: /schedule/
 ---
 
 **Day: May 7 2021**<br>
 Location: Virtual (ICLR platform)
 
-PDT | EDT |	CEST |CST	|	Event
+PDT | EDT |	CEST |BJT	|	Event
 :------------: | :----------: | :------: | :-------: | :-----------
 07:00 |	10:00 |	16:00 |	22:00 |	**Introduction and Opening Remarks**
 07:10 |	10:10 |	16:10 |	22:10 | Invited Talk <br> **Dan Roth (University of Pennsylvania)**
