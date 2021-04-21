@@ -32,5 +32,5 @@ permalink: /accpapers/
 <br>
 - **Weakly Supervised Multi-task Learning for Concept-based Explainability**<br>*Vladimir Balayan, Catarina G Belém, Pedro Saleiro and Pedro Bizarro*
 <br>
-- **Widespread Label Errors in Test Sets Destabilize ML Benchmarks**<br>*Curtis G Northcutt, Anish Athalye and Jonas Mueller*
+- **Pervasive Label Errors in Test Sets Destabilize Machine Learning Benchmarks**<br>*Curtis G Northcutt, Anish Athalye and Jonas Mueller*
 <br>
