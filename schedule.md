@@ -32,7 +32,8 @@ PDT | EDT |	CEST |BJT	|	Event
     |       |      |   |     Pre-Training by Completing Points Cloud
     |       |      |   |     Weakly-Supervised Group Disentanglement using Total Correlation
     |       |      |   |     Is Disentanglement all you need? Comparing Concept-based & Disentanglement Approaches
-    |       |      |   |     Widespread Label Errors in Test Sets Destabilize ML Benchmarks
+    |       |      |   |     Pervasive Label Errors in Test Sets Destabilize Machine Learning Benchmarks
+    |       |      |   |     Weakly Supervision Multi-Task Learning for Concept-Based Explainability
 14:20 |	17:20 |	23:20 |	05:20 |	**Welcome Back**
 14:25 |	17:25 |	23:25 |	05:25 |	Invited Talk <br> **Lu Jiang (Google Research)**
 15:25 |	18:25 |	00:25 |	06:25 |	Invited Talk <br> **Paroma Varma (Snorkel AI)**
