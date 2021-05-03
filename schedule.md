@@ -1,11 +1,19 @@
 ---
 layout: post
-title: Tentative Schedule
+title: Schedule
 permalink: /schedule/
 ---
 
 **Day: May 7 2021**<br>
-Location: Virtual (ICLR platform)
+Location: Virtual (<a href="https://iclr.cc/virtual/2021/workshop/2144">ICLR platform</a>)
+
+<ul>
+<li>All talks will be streamed during the workshop with a live Q&A after each talk.</li>
+<li>Questions and comments can be given either on Rocket.Chat or in the Zoom session.</li>
+<li>The poster sessions are held on Gather.Town.</li>
+<li>All links are given on the <a href="https://iclr.cc/virtual/2021/workshop/2144">ICLR platform</a> (conference registration required).</li> 
+<li>Tweet with us <a href="https://twitter.com/wea_su">@wea_su</a> #WeaSuL2021</li>
+</ul>
 
 PDT | EDT |	CEST |BJT	|	Event
 :------------: | :----------: | :------: | :-------: | :-----------

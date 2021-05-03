@@ -13,6 +13,7 @@ permalink: /accpapers/
 - **Tabular Data Modeling via Contextual Embeddings**<br>*Xin Huang, Ashish Khetan, Milan Cvitkovic and Zohar Karnin*
  | [Paper](/papers/7.pdf)
 - **Pre-Training by Completing Points Cloud**<br>*Hanchen Wang, Liu Qi, Xiangyu Yue, Matt Kusner and Joan Lasenby*
+ | (non-archival)
 - **AutoTriggER: Named Entity Recognition with Auxiliary Trigger Extraction**<br>*Dong-Ho Lee, Ravi Kiran Selvam, Sheikh Muhammad Sarwar, Bill Yuchen Lin, Fred Morstatter, Jay Pujara, Elizabeth Boschee, James Allan and Xiang Ren*
  | (non-archival) 
 - **Active WeaSuL: Improving Weak Supervision with Active Learning**<br>*Samantha R Biegel, Rafah El-Khatib, Luiz Otavio Vilas Boas Oliveira, Max Baak and Nanne Aben*
@@ -32,3 +33,4 @@ permalink: /accpapers/
 - **Weakly Supervised Multi-task Learning for Concept-based Explainability**<br>*Vladimir Balayan, Catarina G Belém, Pedro Saleiro and Pedro Bizarro*
  | [Paper](/papers/26.pdf)
 - **Pervasive Label Errors in Test Sets Destabilize Machine Learning Benchmarks**<br>*Curtis G Northcutt, Anish Athalye and Jonas Mueller*
+ | [Paper](/papers/27.pdf) | [Code](https://github.com/cgnorthcutt/cleanlab)
