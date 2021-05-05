@@ -22,3 +22,5 @@ In particular, we are interested in the following questions:
 Learning with weak supervision is both studied from a theoretical perspective as well as applied to a variety of tasks from areas like natural language processing and computer vision. This workshop aims at bringing together researchers from this wide range of fields to facilitate discussions across research areas that share the common ground of using weak supervision. A target of this workshop is also to inspire applications of weak supervision to new scenarios and to enable researchers to work on tasks that so far have been considered too low-resource. 
 
 As weak supervision addresses one of the major issues of current machine learning techniques, the lack of labeled data, it has also started to obtain commercial interest. This workshop is an opportunity to bridge innovations from academia and the requirements of industry settings. 
+
+For those new to the topic, we collected a <a href="https://github.com/michael-aloys/awesome-weak-supervision/">list of papers</a> to get an overview over the field.

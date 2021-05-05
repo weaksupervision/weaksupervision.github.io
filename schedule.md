@@ -13,6 +13,7 @@ Location: Virtual (<a href="https://iclr.cc/virtual/2021/workshop/2144">ICLR pla
 <li>The poster sessions are held on Gather.Town.</li>
 <li>All links are given on the <a href="https://iclr.cc/virtual/2021/workshop/2144">ICLR platform</a> (conference registration required).</li> 
 <li>Tweet with us <a href="https://twitter.com/wea_su">@wea_su</a> #WeaSuL2021</li>
+<li>For those new to the topic, we collected a <a href="https://github.com/michael-aloys/awesome-weak-supervision/">list of papers</a> to get an overview over the field.</li>
 </ul>
 
 PDT | EDT |	CEST |BJT	|	Event
